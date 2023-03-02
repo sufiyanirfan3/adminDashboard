@@ -230,8 +230,3 @@ td li{
   .delete-icon{
     color: red;cursor:pointer;
   }
-
-  table { 
-    width: 500px; 
-    table-layout:fixed;
-  }
